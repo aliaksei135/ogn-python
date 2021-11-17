@@ -55,7 +55,7 @@ setup(
         'xmlunittest==0.5.0',
         'flower==0.9.7',
         'tqdm==4.61.0',
-        'requests==2.25.1',
+        'requests==2.26.0',
         'matplotlib==3.3.4',
         'bokeh==2.3.2',
         'pandas==1.1.5',
